@@ -1,0 +1,26 @@
+h2{
+    color:yellow;
+}
+.o{
+    color:aqua;
+}
+#t{
+    color:orange;
+}
+input[type="button"]{
+    background-color:yellow;
+    border:1px solid red;
+    border-radius:50%;
+}
+.s{
+    color:red;
+}
+.s:hover{
+    color:yellow;
+}
+
+.k{
+    background : -webkit-linear-gradient(left top, red, green , yellow, aqua);
+    height:100px;
+    width:100px;
+}
